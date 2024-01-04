@@ -1,10 +1,10 @@
-<img src="https://lzyzxq-1310836527.cos.ap-shanghai.myqcloud.com/%E9%B1%BC%E8%81%AA%E6%98%8EAI%E7%BB%98%E7%94%BB%20%282%29.jpg" style="zoom:25%;" />
+<img src="https://lzyzxq-1310836527.cos.ap-shanghai.myqcloud.com/%E9%B1%BC%E8%81%AA%E6%98%8EAI%E7%BB%98%E7%94%BB%20%282%29.jpg" style="width: 25%;" />
 
 #                                                                                                       智汇聚合搜索平台
 
 ### 项目导航
 
-##### 前端仓库地址：
+##### 前端仓库地址：https://github.com/lzyznl/ZH-SearchCenter-Front
 
 ### 项目介绍
 
