@@ -1,4 +1,4 @@
-<img src="D:\chrome\鱼聪明AI绘画 (2).jpg" alt="鱼聪明AI绘画 (2)" style="zoom: 25%;" />
+<img src="https://lzyzxq-1310836527.cos.ap-shanghai.myqcloud.com/%E9%B1%BC%E8%81%AA%E6%98%8EAI%E7%BB%98%E7%94%BB%20%282%29.jpg" style="zoom:25%;" />
 
 #                                                                                                       智汇聚合搜索平台
 
@@ -14,11 +14,11 @@
 
 #### 热搜榜（根据用户搜索实时更新当下最热搜索）
 
-![image-20240104183759116](C:\Users\86185\AppData\Roaming\Typora\typora-user-images\image-20240104183759116.png)
+![image-20240104183759116](https://lzyzxq-1310836527.cos.ap-shanghai.myqcloud.com/image-20240104183759116.png)
 
 搜索结果：
 
-![image-20240104183829171](C:\Users\86185\AppData\Roaming\Typora\typora-user-images\image-20240104183829171.png)
+![image-20240104183829171](https://lzyzxq-1310836527.cos.ap-shanghai.myqcloud.com/image-20240104183829171.png?q-sign-algorithm=sha1&q-ak=AKIDJPpG3RqNGzCEnibPa7z2-8gCrIx4luuveMzH19Zcfc3U5hb3oDO2cbKZ80dCeVr_&q-sign-time=1704367654;1704371254&q-key-time=1704367654;1704371254&q-header-list=host&q-url-param-list=ci-process&q-signature=7b1794e07bdc8baae2628d92f10ea799f6e1b574&x-cos-security-token=Q0F1rr3mov0klzmyHkrKvAg5K31CFx4ab3820f5353d337f5512f7c3eab452674EdCRgMh_zY7qZO4anWoqSSWai2v02hjL2zsALneJzqR0iojnCUjuUh15z31ooqHsdHhXtBr2GkPvAe0ombSmmfzw6PQgReXuI0UrFwgLjzgDNb8Ow55ygcf-JiKtesAYcY-OrMoS9SpXmezbBgnMMjZmoCdPG1GfbnI19LVGXRDBOP8EvT-hgYhhFSFlVTfGt7P94L5WmbVmhVNAaVgHQQ&ci-process=originImage)
 
 #### 自定义搜索（用户自定义搜索内容进行搜索）
 
@@ -26,19 +26,19 @@
 
 **全部模块内容**
 
-![image-20240104184037577](C:\Users\86185\AppData\Roaming\Typora\typora-user-images\image-20240104184037577.png)
+![image-20240104184037577](https://lzyzxq-1310836527.cos.ap-shanghai.myqcloud.com/image-20240104184037577.png)
 
 **帖子模块内容**
 
-![image-20240104184354568](C:\Users\86185\AppData\Roaming\Typora\typora-user-images\image-20240104184354568.png)
+![image-20240104184354568](https://lzyzxq-1310836527.cos.ap-shanghai.myqcloud.com/image-20240104184354568.png)
 
 **图片模块内容**
 
-![image-20240104184502223](C:\Users\86185\AppData\Roaming\Typora\typora-user-images\image-20240104184502223.png)
+![image-20240104184502223](https://lzyzxq-1310836527.cos.ap-shanghai.myqcloud.com/image-20240104184502223.png)
 
 **视频模块内容**
 
-![image-20240104184537744](C:\Users\86185\AppData\Roaming\Typora\typora-user-images\image-20240104184537744.png)
+![image-20240104184537744](https://lzyzxq-1310836527.cos.ap-shanghai.myqcloud.com/image-20240104184537744.png)
 
 ### 项目技术选型：
 
