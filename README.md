@@ -34,7 +34,7 @@
 
 **图片模块内容**
 
-![image-20240104184502223](https://lzyzxq-1310836527.cos.ap-shanghai.myqcloud.com/image-20240104184502223.png)
+![image-20240104184502223](https://lzyzxq-1310836527.cos.ap-shanghai.myqcloud.com/image.png)
 
 **视频模块内容**
 
